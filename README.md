@@ -1,6 +1,6 @@
 # 📊 Telco Customer Churn Analysis
 
-> An end-to-end exploratory data analysis of the Telco Customer Churn dataset, uncovering the key behavioral, demographic, and contractual drivers behind customer attrition.
+> An exploratory data analysis of the Telco Customer Churn dataset, uncovering the key behavioral, demographic, and contractual drivers behind customer attrition.
 
 
 ## Table of Contents
