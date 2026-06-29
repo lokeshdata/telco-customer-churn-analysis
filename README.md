@@ -75,7 +75,7 @@ This project analyzes the [Customer-Churn-Dataset.csv](Customer-Churn-Dataset.cs
 
 ### 2. Churn by Contract Type
 ![Churn by Contract Type](contract_type_vs_churn.png)
-*Month-to-month contracts (55% of customers) are the single largest churn driver; long-term contracts show far stronger retention.*
+*Month-to-month contracts exhibit a 42.7% churn rate, identifying them as the primary driver of customer churn.*
 
 ### 3. Customer Tenure vs. Churn
 ![Customer Tenure vs Churn](tenure_vs_churn.png)
